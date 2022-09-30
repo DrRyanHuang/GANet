@@ -6,3 +6,6 @@
 /dist
 /.idea
 **/__pycache__/**
+.eggs/*
+*.zip
+mmdet/version.py
